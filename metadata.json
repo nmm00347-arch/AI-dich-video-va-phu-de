@@ -1,0 +1,5 @@
+{
+  "name": "SRT AI Translator & Transcriber",
+  "description": "An AI-powered tool to translate SRT subtitle files and transcribe audio from videos into SRT format, with options for different translation styles.",
+  "requestFramePermissions": []
+}
